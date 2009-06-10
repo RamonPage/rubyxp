@@ -1,0 +1,33 @@
+if @rubyxp.match_data.blank?
+  page[:match_data].innerHTML = 'No Match'
+else
+  match_data = @rubyxp.match_data
+  
+  string = h(match_data.string.dup)
+
+  #first what it matched
+  string.sub!(match_data[0]) { |match| "<span style=\"color:#ff0000\">#{match}</span>" }
+  
+  #group matches
+  group_matches = ""
+  match_data.captures.each_with_index do |capture, index|
+    group_matches += "<span class=\"result-text\">#{index + 1}: #{capture}</span> #{capture_explanation(index+1)}<br />"
+  end
+  
+  unless group_matches.blank?
+    group_matches = "<span class=\"result-title\">Captures</span>:<br />#{group_matches}"
+  end
+  
+  page[:match_data].innerHTML = '<span class="result-title">Match:</span><br />' + '<span class="result-text">' + string + '</span>' + explanation('$&')
+  
+  page[:group_matches].innerHTML = group_matches
+  
+  if @rubyxp.sub.blank?
+    page[:sub].innerHTML = ''
+    page[:gsub].innerHTML = ''
+  else
+    page[:sub].innerHTML = print_sub
+    page[:gsub].innerHTML = print_gsub
+  end
+  
+end

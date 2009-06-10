@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Rubyxp - Ruby regular expression tester</title>
+		<%= stylesheet_link_tag 'base' %>
+		<%= javascript_include_tag 'shortcuts.js', :defaults %>
+		
+	</head>
+	
+	<body>
+		<div id="doc4" class="yui-t5">
+			<div id="hd">
+				<h1><%= image_tag 'ruby.png', :size => '50x50', :alt => 'Ruby logo' %> Rubyxp - Ruby regular expression tester</h1>
+			</div>
+			<div id="bd">
+				<div id="yui-main">
+					<div class="yui-b">
+						<%= yield %>
+					</div>
+				</div>
+				<div class="yui-b">
+					<%= render :partial => 'home/side' %>
+				</div>
+			</div>
+			<div id="ft">
+				Created by <a href="http://blog.oscardelben.com/" title="Oscar Del Ben">Oscar Del Ben</a> with <a href="http://macromates.com/" title="TextMate — The Missing Editor for Mac OS X">Textmate</a> and <a href="http://rubyonrails.org/" title="Ruby on Rails">Ruby on Rails</a>.
+			</div>
+		</div>
+		
+		<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<script type="text/javascript">
+		try {
+		var pageTracker = _gat._getTracker("UA-7825563-1");
+		pageTracker._trackPageview();
+		} catch(err) {}</script>
+		
+	</body>
+	
+</html>
