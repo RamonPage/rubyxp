@@ -4,12 +4,13 @@ class Rubyxp
   
   def initialize(params={})
     @regexp = params[:regexp]
-    @caret = params[:caret]
+    @caret = eval("//#{params[:caret]}").options #weird but I need to get the number
     @string_comparison = params[:string_comparison]
     @replacement = params[:replacement]
-    
+
     @expression = Regexp.new( regexp, caret )
     @match_data = expression.match( string_comparison )
+    
     unless replacement.blank?
       @sub = string_comparison.sub( expression, replacement )
       @gsub = string_comparison.gsub( expression, replacement )

@@ -6,12 +6,12 @@ else
   string = h(match_data.string.dup)
 
   #first what it matched
-  string.sub!(match_data[0]) { |match| "<span style=\"color:#ff0000\">#{match}</span>" }
+  string.sub!(match_data[0]) { |match| "<span style=\"color:#ff0000\">#{match.hard_break}</span>" }
   
   #group matches
   group_matches = ""
   match_data.captures.each_with_index do |capture, index|
-    group_matches += "<span class=\"result-text\">#{index + 1}: #{capture}</span> #{capture_explanation(index+1)}<br />"
+    group_matches += "<span class=\"result-text\">#{index + 1}: #{capture.hard_break}</span> #{capture_explanation(index+1)}<br />"
   end
   
   unless group_matches.blank?
