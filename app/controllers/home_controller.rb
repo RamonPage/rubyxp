@@ -1,5 +1,10 @@
 class HomeController < ApplicationController
   
+  caches_page :new
+ 
+  def new
+  end
+
   def create
     caret = ( params['caret'].blank? ? nil : params['caret'] )
     
