@@ -1,3 +1,5 @@
+page[:loading].hide
+
 if @rubyxp.match_data.blank?
   page[:match_data].innerHTML = 'No Match'
 else
