@@ -28,8 +28,8 @@ else
     page[:sub].innerHTML = ''
     page[:gsub].innerHTML = ''
   else
-    page[:sub].innerHTML = h(print_sub)
-    page[:gsub].innerHTML = h(print_gsub)
+    page[:sub].innerHTML = print_sub
+    page[:gsub].innerHTML = print_gsub
   end
   
 end

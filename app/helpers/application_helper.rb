@@ -2,7 +2,7 @@
 module ApplicationHelper
   
   def print_sub
-    output = @rubyxp.sub
+    output = h(@rubyxp.sub)
     source = "\"#{@rubyxp.string_comparison}\".sub( /#{@rubyxp.regexp}/#{@rubyxp.caret}, \"#{@rubyxp.replacement}\" )"
     
     str = <<-str
@@ -14,7 +14,7 @@ module ApplicationHelper
   end
   
   def print_gsub
-    output = @rubyxp.gsub
+    output = h(@rubyxp.gsub)
     source = "\"#{@rubyxp.string_comparison}\".gsub( /#{@rubyxp.regexp}/#{@rubyxp.caret}, \"#{@rubyxp.replacement}\" )"
     
     str = <<-str
