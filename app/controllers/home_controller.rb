@@ -7,21 +7,22 @@ class HomeController < ApplicationController
 
   def create
     caret = ( params['caret'].blank? ? nil : params['caret'] )
-    
+
     @rubyxp = Rubyxp.new(
       :string_comparison => params['string_comparison'], 
       :regexp => params['regexp'],
       :caret => caret,
       :replacement => params['replacement']
     )
-    respond_to do |format|
-      format.js
-    end
     
+    render :layout => false
+
   rescue Exception
-    render :update do |page|
-      page[:match_data].innerHTML = 'Invalid expression / Try again'
-    end
+    render :text => 'Invalid expression / Try again'
   end
   
+  def create_lang
+    redirect_to "http://8d104bm851i9scfeh2s2h1bz06.hop.clickbank.net/"
+  end
+
 end

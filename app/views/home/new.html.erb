@@ -1,34 +1,42 @@
-<h2>Now running on ruby 1.9.2 and the new Oniguruma engine!</h2>
-<div id="note">
-	Welcome to <a href="http://www.rubyxp.com/" title="Rubyxp - Ruby regular expression tester">rubyxp.com</a>, a free service where you can test your ruby regular expressions on your web browser against ruby <strong>1.9.2</strong> and see the result. Please  take note that this currenty is a beta service and I plan to add more features/support in the near future. Many thanks to seattle.rb who provided the initial development place for this app. If you have questions, you can contact me at info [at] this domain. You can also browse the source code at <a href="http://github.com/oscardelben/rubyxp/tree/master" title="oscardelben's rubyxp - GitHub">github</a>.<br />
+<p>With this website you can easily test your ruby regular expressions directly in your browser.</p>
+
+<p>Type your regular expression below, or <a href="#" onclick="fillExample(); return false">fill an example</a>.</p>
+
+<div id="console">
+  <div id="console-top"></div>
+  
+  <div id="console-middle">
+    
+    <div id="form">
+      
+      <form id="mainForm" action="#" onSubmit="perform(); return false">
+        <p>
+          <%= label_tag :regexp, 'Your regular expression (required)', :class => 'indent' %><br />
+          <span class="slash">/</span><%= text_field_tag :regexp %><span class="slash">/</span><%= text_field_tag :caret %>
+        </p>
+
+        <p class="indent">
+          <%= label_tag :string_comparison, 'String comparison (required)' %><br />
+          <%= text_area_tag :string_comparison %>
+        </p>
+
+        <p class="indent">
+          <%= label_tag :replacement, 'Replacement for sub/gsub (optional)' %><br />
+          <%= text_field_tag :replacement %>
+          <%= submit_tag 'Match', :id => 'submit', :class => 'indent' %>
+          <%= image_tag 'spinner.gif', :id => 'spinner', :style => 'display:none' %>
+        </p>
+      
+      </form>
+
+      <div id="result" class="indent"></div>
+    </div>
+    
+  </div>
+  
+  <div id="console-bottom"></div>
 </div>
 
-<% form_remote_tag :url => { :controller => 'home', :action => 'create' }, :html => { :id => 'rubyxp-form' }, :loading => 'formLoading()' do %>
-	<p>
-		<%= label_tag :regexp, 'Your regular expression *' %><br />
-		<span class="slash">/</span><%= text_field_tag :regexp %><span class="slash">/</span><%= text_field_tag :caret %>
-	</p>
-	
-	<p>
-		<%= label_tag :string_comparison, 'String comparison *' %><br />
-		<%= text_area_tag :string_comparison %>
-	</p>
-	
-	<p>
-		<%= label_tag :replacement, 'Replacement for sub/gsub' %><br />
-		<%= text_field_tag :replacement %>
-	</p>
-	
-	<%= submit_tag 'perform', :id => 'submit' %>
-<% end %>
+<h3>Recommended Reading:</h3>
 
-<div id="result">
-  <p id="loading" style="display:none"><%= image_tag('spinner.gif') %></p>
-	<p id="match_data"></p>
-	
-	<p id="group_matches"></p>
-	
-	<p id="sub"></p>
-	<p id="gsub"></p>
-
-</div>
+<a href="/go/createlang" onClick="javascript:urchinTracker('/track/create-prog-lang')" rel="nofollow"><img src="/images/prog_lang.jpg" /></a>

@@ -1,14 +1,28 @@
 
-function initialize() {
-	$('regexp').focus();
+function fillExample() {
+  $('#regexp').attr('value', "\\((\\d+)\\)\\.\\((\\d+)\\)\\.\\((\\d+)\\)");
+  $('#string_comparison').attr('value', "(123).(456).(789)");
+  $('#replacement').attr('value', "\\1\\2\\3");
+  perform();
 }
 
-function formLoading() {
-  $('match_data').innerHtml = '';
-  $('group_matches').innerHtml = '';
-  $('sub').innerHtml = '';
-  $('gsub').innerHtml = '';
-  $('loading').show();
+function toggle_spinner() {
+  $('#submit').toggle();
+  $('#spinner').toggle();
 }
 
-Event.observe( window, 'load' , initialize );
+function perform() {
+  regexp_string = $('#regexp').attr('value');
+  caret = $('#caret').attr('value');
+  text = $('#string_comparison').attr('value');
+  replacement = $('#replacement').attr('value');
+
+  post_data = { regexp: regexp_string, caret: caret, string_comparison: text, replacement: replacement } 
+
+  $.post('/home/create', post_data, function(data) {
+      $('#result').html('');
+      toggle_spinner();
+      $('#result').html(data);
+      toggle_spinner();
+  })
+}

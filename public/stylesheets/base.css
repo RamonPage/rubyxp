@@ -1,189 +1,144 @@
-@import url("http://yui.yahooapis.com/2.6.0/build/reset-fonts-grids/reset-fonts-grids.css");
-
-/*
-Copyright (c) 2008, Yahoo! Inc. All rights reserved.
-Code licensed under the BSD License:
-http://developer.yahoo.net/yui/license.txt
-version: 2.5.1
-*/
-/* base.css, part of YUI's CSS Foundation */
-h1 {
-	/*18px via YUI Fonts CSS foundation*/
-	font-size:138.5%;  
-}
-h2 {
-	/*16px via YUI Fonts CSS foundation*/
-	font-size:123.1%; 
-}
-h3 {
-	/*14px via YUI Fonts CSS foundation*/
-	font-size:108%;  
-}
-h1,h2,h3 {
-	/* top & bottom margin based on font size */
-	margin:1em 0;
-}
-h1,h2,h3,h4,h5,h6,strong {
-	/*bringing boldness back to headers and the strong element*/
-	font-weight:bold; 
-}
-abbr,acronym {
-	/*indicating to users that more info is available */
-	border-bottom:1px dotted #000;
-	cursor:help;
-} 
-em {
-	/*bringing italics back to the em element*/
-	font-style:italic;
-}
-blockquote,ul,ol,dl {
-	/*giving blockquotes and lists room to breath*/
-	margin:1em;
-}
-ol,ul,dl {
-	/*bringing lists on to the page with breathing room */
-	margin-left:2em;
-}
-ol li {
-	/*giving OL's LIs generated numbers*/
-	list-style: decimal outside;	
-}
-ul li {
-	/*giving UL's LIs generated disc markers*/
-	list-style: disc outside;
-}
-dl dd {
-	/*giving UL's LIs generated numbers*/
-	margin-left:1em;
-}
-th,td {
-	/*borders and padding to make the table readable*/
-	border:1px solid #000;
-	padding:.5em;
-}
-th {
-	/*distinguishing table headers from data cells*/
-	font-weight:bold;
-	text-align:center;
-}
-caption {
-	/*coordinated margin to match cell's padding*/
-	margin-bottom:.5em;
-	/*centered so it doesn't blend in to other content*/
-	text-align:center;
-}
-p,fieldset,table,pre {
-	/*so things don't run into each other*/
-	margin-bottom:1em;
-}
-/* setting a consistent width, 160px; 
-   control of type=file still not possible */
-input[type=text],input[type=password],textarea{width:12.25em;*width:11.9em;}
-
-
-
-
-
-/* Custom css */
-
 html, body {
-	background:#F8F8F8;
+  background:#fff;
+  color:#4b2e2e;
+  font-family: Courier;
+}
+
+h1 {
+  margin-top:0.5em;
+}
+
+h3 {
+  margin-top:2em;
 }
 
 a {
-	color:blue;
+  color:blue;
 }
 
-input, textarea {
-	padding:2px;
-	font-size:16px;
+#console {
+  width:931px;
 }
 
-input#regexp, textarea#string_comparison {
-	width:600px;
+#console-top {
+  background:url('/images/console-top.png') no-repeat;
+  height:109px;
 }
 
+#console-middle {
+  background:url('/images/console-middle.png') repeat-y;
+  padding-bottom:20px;
+}
 
-input#caret {
-	width:50px;
+#console-bottom {
+  background:url('/images/console-bottom.png') no-repeat;
+  height:89px;
+}
+
+#form {
+  padding: 0 60px;
+}
+
+/* form */
+
+input {
+  border: 0;
+  border-bottom:1px dashed #4b2e2e;
+  background:#e0dac2;
+  height:28px;
+}
+
+#submit {
+  border:1px solid #4b2e2e;
+  background:#4b2e2e;
+  color:#e0dac2;
 }
 
 textarea {
-	height:70px;
+  border:1px solid #4b2e2e;
+  background:#e0dac2;
 }
 
 .slash {
-	font-size:26px;
-	margin:0 5px;
-	vertical-align:middle;
+  font-size:28px;
+  margin:0 5px;
+  vertical-align:middle;
 }
 
-label {
-	margin-bottom:2px;
+#regexp {
+  width:400px;
+  font-size:12px;
 }
 
-label, textarea#string_comparison, input#replacement, input#submit {
-	margin-left:16px;
+#caret {
+  width:50px;
+  font-size:12px;
 }
 
-#rubyxp-form {
-	background:#E0EFE3;
-	padding:16px 2px;
+#string_comparison {
+  width:480px;
+  height:80px;
 }
 
-#result {
-	background:#E8D7E8;
-	margin:15px 0;
-	padding:16px;
+
+#replacement {
+  width:390px;
+  font-size:12px;
 }
 
-#result a {
-	font-size:12px;
+.indent {
+  margin-left:20px;
 }
 
-.result-title {
-	font-weight:bold;
-}
 
-.result-text {
-	padding-left:20px;
-}
-
-.explanation {
-	font-size:11px;
-}
+/* Sidebar */
 
 #reference {
-	background:#F1F1F1;
-	padding:2px;
+  background:#f1f1f1;
+  padding:2px;
 }
 
-#note {
-	margin:2px 0;
+#reference dl {
+  margin:0;
+  padding:5px;
 }
 
-dl {
-	margin:0;
-	padding:5px;
+#reference dt {
+  font-size:12px
 }
 
-dt {
-	font-size:12px;
+#reference dl, #reference dd {
+  margin:0 0 1em 1em;
+  font-size:11px;
 }
 
-dd {
-	color:#2d1d1d;
-	font-size:11px;
-	margin-bottom:2px;
+#reference a {
+  margin-left:1em;
+  font-size:10px;
 }
 
-#match_data {
-	margin-bottom:5px;
+
+/* Result */
+
+#result {
+  margin-top:70px;
 }
 
-.source {
-	font-size:11px;
-	background:#282826;
-	color:#FFFFFF;
-	padding:5px;
+.indent-20 {
+  margin-left:20px;
+}
+
+#group_matches, #sub, #gsub {
+  margin-top:20px;
+}
+
+code {
+  background:#4B2E2E;
+  color: #fff;
+  padding:2px;
+  font-size:11px;
+}
+
+#footer {
+  margin-top:4em;
 }

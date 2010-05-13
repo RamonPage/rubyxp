@@ -4,31 +4,29 @@
 	<head>
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 		<title>Rubyxp - Ruby regular expression tester</title>
-		<%= stylesheet_link_tag 'base' %>
-		<%= javascript_include_tag 'shortcuts.js', :defaults %>
-		
+		<%= stylesheet_link_tag 'reset', 'text', '960', 'base' %>
+		<%= javascript_include_tag 'jquery', 'application' %>
 	</head>
 	
 	<body>
-		<div id="doc4" class="yui-t5">
-			<div id="hd">
-				<h1><%= image_tag 'ruby.png', :size => '50x50', :alt => 'Ruby logo' %> Rubyxp - Ruby regular expression tester</h1>
-			</div>
-			<div id="bd">
-				<div id="yui-main">
-					<div class="yui-b">
-						<%= yield %>
-					</div>
-				</div>
-				<div class="yui-b">
-					<%= render :partial => 'home/side' %>
-				</div>
-			</div>
-			<div id="ft">
-				Created by <a href="http://oscardelben.com/" title="Oscar Del Ben">Oscar Del Ben</a> with <a href="http://macromates.com/" title="TextMate — The Missing Editor for Mac OS X">Textmate</a> and <a href="http://rubyonrails.org/" title="Ruby on Rails">Ruby on Rails</a>.
-			</div>
-		</div>
-		
+    
+    <a href="http://github.com/oscardelben/rubyxp"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_white_ffffff.png" alt="Fork me on GitHub" /></a>
+    
+    <div class="container_12">
+
+  		<h1>Ruby Regular Expression Tester</h1>
+      
+      <div class="grid_9">
+  		  <%= yield %>
+      </div>
+      <div class="grid_3">
+    	  <%= render :partial => 'home/side' %>
+      </div>
+      <div style="clear:both"></div>
+      <div id="footer">Created by <a href="http://oscardelben.com">Oscar Del Ben</a>. Thanks to Seattle.rb for hospitality. &copy; 2008 - 2010 <a href="http://www.rubyxp.com">Ruby regular expressions</a>.</div>
+    </div>
+
+		<% if Rails.env.production? %>
 		<script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -38,6 +36,7 @@
 		var pageTracker = _gat._getTracker("UA-7825563-1");
 		pageTracker._trackPageview();
 		} catch(err) {}</script>
+		<% end %>
 		
 	</body>
 	
