@@ -1,0 +1,1924 @@
+# Logfile created on Thu Apr 29 19:31:44 +0200 2010
+
+Processing HomeController#new (for 127.0.0.1 at 2010-04-29 19:31:56) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (1.5ms)
+Cached page: /index.html (0.4ms)
+Completed in 27ms (View: 25, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-04-29 19:33:43) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (1.4ms)
+Completed in 26ms (View: 25, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-04-29 19:34:12) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-04-29 19:42:19) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-04-29 19:44:40) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-04-29 19:45:14) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-05 17:01:31) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (1.6ms)
+Completed in 38ms (View: 36, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-05 17:22:39) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-05 17:25:34) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-05 17:26:31) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-05 17:26:42) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-05 17:30:42) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-05 17:32:56) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-05 17:34:23) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-05 17:36:18) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-05 17:36:45) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-05 17:37:31) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 57ms (View: 56, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-05 17:40:01) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-05 17:40:06) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-05 17:41:38) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-05 17:42:26) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-05 17:44:08) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-05 17:44:13) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-05 17:44:30) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-05 17:44:48) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:20:16) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:21:32) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:23:26) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:24:13) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:24:55) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:25:34) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:26:51) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:29:35) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:30:05) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:30:18) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:31:46) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:32:42) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:33:11) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:34:20) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:34:38) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:35:04) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:35:14) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:35:33) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-07 10:41:12) [POST]
+  Parameters: {"regexp"=>"", "string_comparison"=>"", "commit"=>"perform", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 70ms (View: 4, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:43:08) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:43:35) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:46:38) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:47:01) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:47:10) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:47:18) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:47:51) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:48:51) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:49:46) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:50:49) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:51:20) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:52:08) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 10:52:24) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 11:12:14) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 11:15:13) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 11:16:19) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 11:17:45) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 11:20:44) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 11:21:38) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-07 11:21:56) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 14:53:23) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (1.9ms)
+Completed in 45ms (View: 44, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 14:54:18) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 14:55:57) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 14:56:13) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 15:00:19) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 58ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 15:03:05) [POST]
+  Parameters: {"regexp"=>"", "string_comparison"=>"", "commit"=>"Perform", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 27ms (View: 4, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 15:18:36) [POST]
+  Parameters: {"regexp"=>"sdds", "string_comparison"=>"dfsd", "commit"=>"Perform", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 15:18:39) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 15:18:43) [POST]
+  Parameters: {"regexp"=>"sdds", "string_comparison"=>"dfsd", "commit"=>"Perform", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 15:19:00) [POST]
+  Parameters: {"regexp"=>"sdds", "string_comparison"=>"dfsd", "commit"=>"Perform", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 15:19:46) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-10 15:19:48) [POST]
+
+ActionController::RoutingError (No route matches "/create.js" with {:method=>:post}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-10 15:19:52) [POST]
+
+ActionController::RoutingError (No route matches "/create.js" with {:method=>:post}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 15:20:47) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-10 15:20:49) [POST]
+
+ActionController::RoutingError (No route matches "/home/create.js" with {:method=>:post}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 15:23:42) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 15:23:44) [POST]
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 15:26:50) [POST]
+Rendering template within layouts/application
+Rendering home/create
+Rendered home/_side (0.2ms)
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 15:28:28) [POST]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 15:28:37) [POST]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 15:28:54) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 15:28:56) [POST]
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 15:29:56) [POST]
+
+TypeError (can't convert nil into String):
+  app/models/rubyxp.rb:11:in `initialize'
+  app/models/rubyxp.rb:11:in `new'
+  app/models/rubyxp.rb:11:in `initialize'
+  app/controllers/home_controller.rb:11:in `new'
+  app/controllers/home_controller.rb:11:in `create'
+
+Rendered rescues/_trace (30.5ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 15:32:53) [POST]
+
+
+
+
+
+
+
+
+TypeError (can't convert nil into String):
+  app/models/rubyxp.rb:11:in `initialize'
+  app/models/rubyxp.rb:11:in `new'
+  app/models/rubyxp.rb:11:in `initialize'
+  app/controllers/home_controller.rb:13:in `new'
+  app/controllers/home_controller.rb:13:in `create'
+
+Rendered rescues/_trace (30.5ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 15:33:12) [POST]
+
+
+
+
+
+
+
+
+TypeError (can't convert nil into String):
+  app/models/rubyxp.rb:11:in `initialize'
+  app/models/rubyxp.rb:11:in `new'
+  app/models/rubyxp.rb:11:in `initialize'
+  app/controllers/home_controller.rb:13:in `new'
+  app/controllers/home_controller.rb:13:in `create'
+
+Rendered rescues/_trace (88.4ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 15:33:15) [POST]
+
+
+
+
+
+
+
+
+TypeError (can't convert nil into String):
+  app/models/rubyxp.rb:11:in `initialize'
+  app/models/rubyxp.rb:11:in `new'
+  app/models/rubyxp.rb:11:in `initialize'
+  app/controllers/home_controller.rb:13:in `new'
+  app/controllers/home_controller.rb:13:in `create'
+
+Rendered rescues/_trace (28.5ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 15:33:19) [POST]
+
+
+
+
+
+
+
+
+TypeError (can't convert nil into String):
+  app/models/rubyxp.rb:11:in `initialize'
+  app/models/rubyxp.rb:11:in `new'
+  app/models/rubyxp.rb:11:in `initialize'
+  app/controllers/home_controller.rb:13:in `new'
+  app/controllers/home_controller.rb:13:in `create'
+
+Rendered rescues/_trace (29.0ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 15:33:52) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 15:33:54) [POST]
+
+
+
+
+
+
+
+
+TypeError (can't convert nil into String):
+  app/models/rubyxp.rb:11:in `initialize'
+  app/models/rubyxp.rb:11:in `new'
+  app/models/rubyxp.rb:11:in `initialize'
+  app/controllers/home_controller.rb:13:in `new'
+  app/controllers/home_controller.rb:13:in `create'
+
+Rendered rescues/_trace (33.5ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 15:35:03) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 15:35:09) [POST]
+
+
+
+
+
+
+
+
+TypeError (can't convert nil into String):
+  app/models/rubyxp.rb:11:in `initialize'
+  app/models/rubyxp.rb:11:in `new'
+  app/models/rubyxp.rb:11:in `initialize'
+  app/controllers/home_controller.rb:13:in `new'
+  app/controllers/home_controller.rb:13:in `create'
+
+Rendered rescues/_trace (29.5ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 15:35:58) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 15:36:00) [POST]
+  Parameters: {"regexp"=>"sdds", "caret"=>"", "text"=>"dfsd", "replacement"=>""}
+
+
+
+
+sdds
+
+
+Rendering home/create
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 16:29:09) [POST]
+  Parameters: {"regexp"=>"sdds", "caret"=>"", "text"=>"dfsd", "replacement"=>""}
+Rendering home/create
+ERROR: compiling _run_erb_app47views47home47create46html46erb RAISED compile error
+/Users/oscar/projects/rubyxp/app/views/home/create.html.erb:17: syntax error, unexpected kENSURE, expecting kEND
+/Users/oscar/projects/rubyxp/app/views/home/create.html.erb:19: syntax error, unexpected $end, expecting kEND
+Function body:           def _run_erb_app47views47home47create46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ;  if @rubyxp.match_data.blank? ; @output_buffer.concat "\n  No Match\n"
+
+;  else ; @output_buffer.concat "\n\n  <span class=\"result-title\">Match:</span><br />\n  <div id=\"match-data\">\n    <span class=\"result-text\">"
+
+
+
+; @output_buffer.concat(( pretty_match ).to_s); @output_buffer.concat "</span> "; @output_buffer.concat(( explanation('$&') ).to_s); @output_buffer.concat "\n  </div>\n\n  <div id=\"group_matches\">"
+
+
+; @output_buffer.concat(( print_group_matches ).to_s); @output_buffer.concat "</div>\n\n  "
+
+;  unless @rubyxp.sub.blank? ; @output_buffer.concat "\n    <div id=\"sub\">"
+; @output_buffer.concat(( print_sub ).to_s); @output_buffer.concat "</div>\n    <div id=\"gsub\">"
+; @output_buffer.concat(( print_gsub ).to_s); @output_buffer.concat "</div>\n  "
+;  end ; @output_buffer.concat "\n"
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/oscar/projects/rubyxp/app/views/home/create.html.erb:19:in `compile!'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:987:in `render_without_benchmark'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/opt/local/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/opt/local/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/opt/local/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Users/oscar/projects/rubyxp/app/controllers/home_controller.rb:18:in `create'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1331:in `send'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1331:in `perform_action_without_filters'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/opt/local/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/opt/local/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/opt/local/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/head.rb:9:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/methodoverride.rb:24:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/lock.rb:11:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/lock.rb:11:in `synchronize'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/lock.rb:11:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/urlmap.rb:46:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/urlmap.rb:40:in `each'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/urlmap.rb:40:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/content_length.rb:13:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/chunked.rb:15:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/handler/mongrel.rb:68:in `process'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/handler/mongrel.rb:38:in `run'
+/opt/local/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+/opt/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/opt/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+Completed in 10ms (View: 0, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 16:29:16) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 16:29:24) [POST]
+  Parameters: {"regexp"=>"t(e)st", "caret"=>"", "text"=>"test", "replacement"=>""}
+Rendering home/create
+ERROR: compiling _run_erb_app47views47home47create46html46erb RAISED compile error
+/Users/oscar/projects/rubyxp/app/views/home/create.html.erb:17: syntax error, unexpected kENSURE, expecting kEND
+/Users/oscar/projects/rubyxp/app/views/home/create.html.erb:19: syntax error, unexpected $end, expecting kEND
+Function body:           def _run_erb_app47views47home47create46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ;  if @rubyxp.match_data.blank? ; @output_buffer.concat "\n  No Match\n"
+
+;  else ; @output_buffer.concat "\n\n  <span class=\"result-title\">Match:</span><br />\n  <div id=\"match-data\">\n    <span class=\"result-text\">"
+
+
+
+; @output_buffer.concat(( pretty_match ).to_s); @output_buffer.concat "</span> "; @output_buffer.concat(( explanation('$&') ).to_s); @output_buffer.concat "\n  </div>\n\n  <div id=\"group_matches\">"
+
+
+; @output_buffer.concat(( print_group_matches ).to_s); @output_buffer.concat "</div>\n\n  "
+
+;  unless @rubyxp.sub.blank? ; @output_buffer.concat "\n    <div id=\"sub\">"
+; @output_buffer.concat(( print_sub ).to_s); @output_buffer.concat "</div>\n    <div id=\"gsub\">"
+; @output_buffer.concat(( print_gsub ).to_s); @output_buffer.concat "</div>\n  "
+;  end ; @output_buffer.concat "\n"
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/oscar/projects/rubyxp/app/views/home/create.html.erb:19:in `compile!'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:987:in `render_without_benchmark'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/opt/local/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/opt/local/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/opt/local/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/Users/oscar/projects/rubyxp/app/controllers/home_controller.rb:18:in `create'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1331:in `send'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1331:in `perform_action_without_filters'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/opt/local/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/opt/local/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/opt/local/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/head.rb:9:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/methodoverride.rb:24:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/lock.rb:11:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/lock.rb:11:in `synchronize'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/lock.rb:11:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/urlmap.rb:46:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/urlmap.rb:40:in `each'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/urlmap.rb:40:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/content_length.rb:13:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/chunked.rb:15:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/handler/mongrel.rb:68:in `process'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/handler/mongrel.rb:38:in `run'
+/opt/local/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+/opt/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/opt/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+Completed in 7ms (View: 0, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 16:30:03) [POST]
+  Parameters: {"regexp"=>"t(e)st", "caret"=>"", "text"=>"test", "replacement"=>""}
+Rendering home/create
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 16:30:18) [POST]
+  Parameters: {"regexp"=>"test", "caret"=>"", "text"=>"test", "replacement"=>""}
+Rendering home/create
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:15:55) [POST]
+  Parameters: {"regexp"=>"test", "caret"=>"", "text"=>"test", "replacement"=>""}
+Rendering home/create
+Completed in 36ms (View: 20, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:16:43) [POST]
+  Parameters: {"regexp"=>"test", "caret"=>"", "text"=>"test", "replacement"=>""}
+Rendering home/create
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:18:01) [POST]
+  Parameters: {"regexp"=>"test", "caret"=>"", "text"=>"test", "replacement"=>""}
+Rendering home/create
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:18:02) [POST]
+  Parameters: {"regexp"=>"test", "caret"=>"", "text"=>"test", "replacement"=>""}
+Rendering home/create
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:18:05) [POST]
+  Parameters: {"regexp"=>"test", "caret"=>"", "text"=>"test", "replacement"=>""}
+Rendering home/create
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:18:50) [POST]
+  Parameters: {"regexp"=>"test", "caret"=>"", "text"=>"test", "replacement"=>""}
+Rendering home/create
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:19:05) [POST]
+  Parameters: {"regexp"=>"test", "caret"=>"", "text"=>"test", "replacement"=>""}
+Rendering home/create
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:19:41) [POST]
+  Parameters: {"regexp"=>"test", "caret"=>"", "text"=>"test", "replacement"=>""}
+Rendering home/create
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 18:20:01) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (16.3ms)
+Completed in 129ms (View: 128, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:20:03) [POST]
+  Parameters: {"regexp"=>"test", "string_comparison"=>"test", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 98ms (View: 0, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:20:20) [POST]
+  Parameters: {"regexp"=>"test", "string_comparison"=>"test", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 15ms (View: 0, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:20:38) [POST]
+  Parameters: {"regexp"=>"test", "string_comparison"=>"test", "caret"=>"", "replacement"=>""}
+Rendering home/create
+
+ActionView::TemplateError (undefined local variable or method `match_data' for #<ActionView::Base:0x104285438>) on line #7 of app/views/home/create.html.erb:
+4: 
+5:   <span class="result-title">Match:</span><br />
+6:   <div id="match-data">
+7:     <span class="result-text"><%= pretty_match %></span> <%= explanation('$&') %>
+8:   </div>
+9: 
+10:   <div id="group_matches"><%= print_group_matches %></div>
+
+    app/helpers/application_helper.rb:7:in `pretty_match'
+    app/views/home/create.html.erb:7
+    app/controllers/home_controller.rb:18:in `create'
+
+Rendered rescues/_trace (90.9ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:21:38) [POST]
+  Parameters: {"regexp"=>"test", "string_comparison"=>"test", "caret"=>"", "replacement"=>""}
+Rendering home/create
+
+ActionView::TemplateError (undefined local variable or method `group_matches' for #<ActionView::Base:0x10442ff18>) on line #10 of app/views/home/create.html.erb:
+7:     <span class="result-text"><%= pretty_match %></span> <%= explanation('$&') %>
+8:   </div>
+9: 
+10:   <div id="group_matches"><%= print_group_matches %></div>
+11: 
+12:   <% unless @rubyxp.sub.blank? %>
+13:     <div id="sub"><%= print_sub %></div>
+
+    app/helpers/application_helper.rb:17:in `print_group_matches'
+    app/views/home/create.html.erb:10
+    app/controllers/home_controller.rb:18:in `create'
+
+Rendered rescues/_trace (34.2ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:22:15) [POST]
+  Parameters: {"regexp"=>"test", "string_comparison"=>"test", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:22:19) [POST]
+  Parameters: {"regexp"=>"test", "string_comparison"=>"test", "caret"=>"", "replacement"=>"d"}
+Rendering home/create
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:25:54) [POST]
+  Parameters: {"regexp"=>"test", "string_comparison"=>"test", "caret"=>"", "replacement"=>"d"}
+Rendering home/create
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 18:31:26) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:31:28) [POST]
+  Parameters: {"regexp"=>"test", "string_comparison"=>"test", "caret"=>"", "replacement"=>"d"}
+Rendering home/create
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 18:31:38) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:31:40) [POST]
+  Parameters: {"regexp"=>"test", "string_comparison"=>"test", "caret"=>"", "replacement"=>"d"}
+Rendering home/create
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:32:15) [POST]
+  Parameters: {"regexp"=>"t(e)(s)t", "string_comparison"=>"test", "caret"=>"", "replacement"=>"d"}
+Rendering home/create
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 18:36:01) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:36:03) [POST]
+  Parameters: {"regexp"=>"t(e)(s)t", "string_comparison"=>"test", "caret"=>"", "replacement"=>"d"}
+Rendering home/create
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 18:36:36) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:36:38) [POST]
+  Parameters: {"regexp"=>"t(e)(s)t", "string_comparison"=>"test", "caret"=>"", "replacement"=>"d"}
+Rendering home/create
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 18:38:03) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:38:04) [POST]
+  Parameters: {"regexp"=>"t(e)(s)t", "string_comparison"=>"test", "caret"=>"", "replacement"=>"d"}
+Rendering home/create
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 18:38:51) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:38:52) [POST]
+  Parameters: {"regexp"=>"t(e)(s)t", "string_comparison"=>"test", "caret"=>"", "replacement"=>"d"}
+Rendering home/create
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 18:40:26) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 18:40:28) [POST]
+  Parameters: {"regexp"=>"t(e)(s)t", "string_comparison"=>"test", "caret"=>"", "replacement"=>"d"}
+Rendering home/create
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 19:11:54) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 19:11:56) [POST]
+  Parameters: {"regexp"=>"t(e)(s)t", "string_comparison"=>"test", "caret"=>"", "replacement"=>"d"}
+Rendering home/create
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 19:14:34) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 19:14:35) [POST]
+  Parameters: {"regexp"=>"t(e)(s)t", "string_comparison"=>"test", "caret"=>"", "replacement"=>"d"}
+Rendering home/create
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 19:15:49) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 19:18:15) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 19:18:16) [POST]
+  Parameters: {"regexp"=>"t(e)(s)t", "string_comparison"=>"test", "caret"=>"", "replacement"=>"d"}
+Rendering home/create
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-10 19:19:21) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-10 19:19:26) [POST]
+  Parameters: {"regexp"=>"t(e)(s)t", "string_comparison"=>"test", "caret"=>"", "replacement"=>"d"}
+Rendering home/create
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 14:52:27) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (1.9ms)
+Completed in 93ms (View: 92, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 14:52:42) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 14:53:29) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:00:41) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:01:29) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:01:35) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:02:25) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:02:27) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:03:16) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:03:45) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:03:50) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 52ms (View: 51, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:04:11) [POST]
+  Parameters: {"regexp"=>"d+", "string_comparison"=>"(123).(456).(789)", "caret"=>"", "replacement"=>"\001\001"}
+Rendering home/create
+Completed in 30ms (View: 24, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:04:21) [POST]
+  Parameters: {"regexp"=>"\\d+", "string_comparison"=>"(123).(456).(789)", "caret"=>"", "replacement"=>"\001\001"}
+Rendering home/create
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:04:57) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:05:07) [POST]
+  Parameters: {"regexp"=>"\\((d+)\\)\\.\\((d+)\\)\\.\\((d+)\\)", "string_comparison"=>"(123).(456).(789)", "caret"=>"", "replacement"=>"\\1\\1"}
+Rendering home/create
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:05:32) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:05:36) [POST]
+  Parameters: {"regexp"=>"\\((\\d+)\\)\\.\\((\\d+)\\)\\.\\((\\d+)\\)", "string_comparison"=>"(123).(456).(789)", "caret"=>"", "replacement"=>"\\1\\1"}
+Rendering home/create
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:06:08) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:06:11) [POST]
+  Parameters: {"regexp"=>"\\((\\d+)\\)\\.\\((\\d+)\\)\\.\\((\\d+)\\)", "string_comparison"=>"(123).(456).(789)", "caret"=>"", "replacement"=>"\\1\\2\\3"}
+Rendering home/create
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:08:48) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:10:40) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:10:44) [POST]
+  Parameters: {"regexp"=>"\\((\\d+)\\)\\.\\((\\d+)\\)\\.\\((\\d+)\\)", "string_comparison"=>"(123).(456).(789)", "commit"=>"Perform", "caret"=>"", "replacement"=>"\\1\\2\\3"}
+Rendering home/create
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:11:37) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:12:02) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:12:35) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:13:57) [GET]
+Rendering template within layouts/application
+Rendering home/new
+ERROR: compiling _run_erb_app47views47home47new46html46erb RAISED compile error
+/Users/oscar/projects/rubyxp/app/views/home/new.html.erb:38: syntax error, unexpected kENSURE, expecting $end
+Function body:           def _run_erb_app47views47home47new46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<p>Type your ruby regular expression below, or <a href=\"#\" onclick=\"fillExample(); return false\">fill an example</a>.</p>\n\n<div id=\"console\">\n  <div id=\"console-top\"></div>\n  \n  <div id=\"console-middle\">\n    \n    <div id=\"form\">\n      \n      <form action=\"#\" onClick=\"perform(); return false\">\n        <p>\n          "
+
+
+
+
+
+
+
+
+
+
+; @output_buffer.concat(( label_tag :regexp, 'Your regular expression (required)', :class => 'indent' ).to_s); @output_buffer.concat "<br />\n          <span class=\"slash\">/</span>"
+; @output_buffer.concat(( text_field_tag :regexp ).to_s); @output_buffer.concat "<span class=\"slash\">/</span>"; @output_buffer.concat(( text_field_tag :caret ).to_s); @output_buffer.concat "\n        </p>\n\n        <p class=\"indent\">\n          "
+
+
+
+; @output_buffer.concat(( label_tag :string_comparison, 'String comparison (required)' ).to_s); @output_buffer.concat "<br />\n          "
+; @output_buffer.concat(( text_area_tag :string_comparison ).to_s); @output_buffer.concat "\n        </p>\n\n        <p class=\"indent\">\n          "
+
+
+
+; @output_buffer.concat(( label_tag :replacement, 'Replacement for sub/gsub (optional)' ).to_s); @output_buffer.concat "<br />\n          "
+; @output_buffer.concat(( text_field_tag :replacement ).to_s); @output_buffer.concat "\n          "
+; @output_buffer.concat(( submit_tag 'Perform', :id => 'submit', :class => 'indent' ).to_s); @output_buffer.concat "\n          "
+; @output_buffer.concat(( image_tag 'spinner.gif', :id => 'spinner', :style => 'display:none' ).to_s); @output_buffer.concat "\n        </p>\n\n      "
+
+
+;  end ; @output_buffer.concat "\n\n      <div id=\"result\" class=\"indent\"></div>\n    </div>\n    \n  </div>\n  \n  <div id=\"console-bottom\"></div>\n</div>\n"
+
+
+
+
+
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/oscar/projects/rubyxp/app/views/home/new.html.erb:38:in `compile!'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:348:in `_render_with_layout'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:262:in `render'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:945:in `render_without_benchmark'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/opt/local/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/opt/local/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/opt/local/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1326:in `default_render'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/opt/local/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/opt/local/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/opt/local/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/head.rb:9:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/methodoverride.rb:24:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/lock.rb:11:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/lock.rb:11:in `synchronize'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/lock.rb:11:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+/opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/urlmap.rb:46:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/urlmap.rb:40:in `each'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/urlmap.rb:40:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/content_length.rb:13:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/chunked.rb:15:in `call'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/handler/mongrel.rb:68:in `process'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/opt/local/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/opt/local/lib/ruby/gems/1.8/gems/rack-1.0.2.pre/lib/rack/handler/mongrel.rb:38:in `run'
+/opt/local/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+/opt/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/opt/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/oscar/projects/rubyxp/app/views/home/new.html.erb:38: syntax error, unexpected kENSURE, expecting $end) on line #38 of app/views/home/new.html.erb:
+35:   <div id="console-bottom"></div>
+36: </div>
+
+    app/views/home/new.html.erb:38:in `compile!'
+
+Rendered rescues/_trace (34.2ms)
+Rendered rescues/_request_and_response (1.1ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:14:20) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:14:26) [POST]
+  Parameters: {"regexp"=>"\\((\\d+)\\)\\.\\((\\d+)\\)\\.\\((\\d+)\\)", "string_comparison"=>"(123).(456).(789)", "caret"=>"", "replacement"=>"\\1\\2\\3"}
+Rendering home/create
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:14:32) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:15:25) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:15:29) [POST]
+  Parameters: {"regexp"=>"\\((\\d+)\\)\\.\\((\\d+)\\)\\.\\((\\d+)\\)", "string_comparison"=>"(123).(456).(789)", "caret"=>"", "replacement"=>"\\1\\2\\3"}
+Rendering home/create
+Completed in 7ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:15:31) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:15:41) [POST]
+  Parameters: {"regexp"=>"\\((\\d+)\\)\\.\\((\\d+)\\)\\.\\((\\d+)\\)", "string_comparison"=>"(123).(456).(789)", "caret"=>"", "replacement"=>"\\1\\2\\3"}
+Rendering home/create
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:17:46) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:18:21) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:20:39) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:20:41) [POST]
+  Parameters: {"regexp"=>"\\((\\d+)\\)\\.\\((\\d+)\\)\\.\\((\\d+)\\)", "string_comparison"=>"(123).(456).(789)", "caret"=>"", "replacement"=>"\\1\\2\\3"}
+Rendering home/create
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:21:45) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:21:48) [POST]
+  Parameters: {"regexp"=>"\\((\\d+)\\)\\((\\d+)\\)\\((\\d+)\\)", "string_comparison"=>"(123).(456).(789)", "caret"=>"", "replacement"=>"\\1\\2\\3"}
+Rendering home/create
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:22:22) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:22:23) [POST]
+  Parameters: {"regexp"=>"\\((\\d+)\\)\\.\\((\\d+)\\)\\.\\((\\d+)\\)", "string_comparison"=>"(123).(456).(789)", "caret"=>"", "replacement"=>"\\1\\2\\3"}
+Rendering home/create
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:23:26) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:23:28) [POST]
+  Parameters: {"regexp"=>"\\((\\d+)\\)\\.\\((\\d+)\\)\\.\\((\\d+)\\)", "string_comparison"=>"(123).(456).(789)", "caret"=>"", "replacement"=>"\\1\\2\\3"}
+Rendering home/create
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:31:06) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:31:31) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:31:42) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:32:50) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:34:16) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:34:30) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 8ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:34:36) [POST]
+  Parameters: {"regexp"=>"", "string_comparison"=>"", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:34:44) [POST]
+  Parameters: {"regexp"=>"", "string_comparison"=>"", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:34:45) [POST]
+  Parameters: {"regexp"=>"", "string_comparison"=>"", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:34:46) [POST]
+  Parameters: {"regexp"=>"", "string_comparison"=>"", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:34:52) [POST]
+  Parameters: {"regexp"=>"d", "string_comparison"=>"", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:34:55) [POST]
+  Parameters: {"regexp"=>"d", "string_comparison"=>"", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:34:56) [POST]
+  Parameters: {"regexp"=>"d", "string_comparison"=>"", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:35:05) [POST]
+  Parameters: {"regexp"=>"d", "string_comparison"=>"d", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:35:09) [POST]
+  Parameters: {"regexp"=>"d", "string_comparison"=>"d", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:35:11) [POST]
+  Parameters: {"regexp"=>"d", "string_comparison"=>"d", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:35:12) [POST]
+  Parameters: {"regexp"=>"dd", "string_comparison"=>"d", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 3ms (View: 0, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:35:51) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 15:35:55) [POST]
+  Parameters: {"regexp"=>"d", "string_comparison"=>"d", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:40:00) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.7ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:40:23) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:40:33) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:47:32) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:47:35) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:47:41) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create_lang (for 127.0.0.1 at 2010-05-13 15:47:44) [GET]
+Redirected to http://8d104bm851i9scfeh2s2h1bz06.hop.clickbank.net/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/go/createlang]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 15:50:34) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 53ms (View: 52, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 16:04:00) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 8ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 16:04:16) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 16:07:20) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 16:09:02) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 16:10:52) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 16:11:25) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.2ms)
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 16:11:37) [POST]
+  Parameters: {"regexp"=>"\\((\\d+)\\)\\.\\((\\d+)\\)\\.\\((\\d+)\\)", "string_comparison"=>"(123).(456).(789)", "caret"=>"", "replacement"=>"\\1\\2\\3"}
+Rendering home/create
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 17:55:53) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.9ms)
+Completed in 38ms (View: 37, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-13 17:55:55) [POST]
+  Parameters: {"regexp"=>"\\((\\d+)\\)\\.\\((\\d+)\\)\\.\\((\\d+)\\)", "caret"=>"", "string_comparison"=>"(123).(456).(789)", "replacement"=>"\\1\\2\\3"}
+Rendering home/create
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/home/create]
