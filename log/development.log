@@ -1922,3 +1922,10 @@ Processing HomeController#create (for 127.0.0.1 at 2010-05-13 17:55:55) [POST]
   Parameters: {"regexp"=>"\\((\\d+)\\)\\.\\((\\d+)\\)\\.\\((\\d+)\\)", "caret"=>"", "string_comparison"=>"(123).(456).(789)", "replacement"=>"\\1\\2\\3"}
 Rendering home/create
 Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-13 18:10:39) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.1ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]

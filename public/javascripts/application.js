@@ -19,10 +19,12 @@ function perform() {
 
   post_data = { regexp: regexp_string, caret: caret, string_comparison: text, replacement: replacement } 
 
+  toggle_spinner();
+
   $.post('/home/create', post_data, function(data) {
       $('#result').html('');
-      toggle_spinner();
       $('#result').html(data);
-      toggle_spinner();
   })
+  
+  toggle_spinner();
 }
