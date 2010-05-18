@@ -18,13 +18,14 @@ function perform() {
   replacement = $('#replacement').attr('value');
 
   post_data = { regexp: regexp_string, caret: caret, string_comparison: text, replacement: replacement } 
-
-  toggle_spinner();
-
+  
+  
   $.post('/home/create', post_data, function(data) {
+      toggle_spinner(); // Without this, it doesn't work. WTF jquery?
       $('#result').html('');
       $('#result').html(data);
   })
   
   toggle_spinner();
+  
 }

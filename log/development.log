@@ -1929,3 +1929,660 @@ Rendering template within layouts/application
 Rendering home/new
 Rendered home/_side (0.1ms)
 Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:22:03) [GET]
+  Parameters: {"1236951968"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/shortcuts.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:22:03) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/prototype.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:22:03) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/effects.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:22:03) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/dragdrop.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:22:03) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/controls.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:22:09) [GET]
+  Parameters: {"1236951968"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/shortcuts.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:22:09) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/prototype.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:22:09) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/effects.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:22:09) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/dragdrop.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:22:09) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/controls.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:22:13) [GET]
+  Parameters: {"1236951968"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/shortcuts.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:22:13) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/prototype.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:22:13) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/effects.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:22:13) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/dragdrop.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:22:13) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/controls.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:23:02) [GET]
+  Parameters: {"1236951968"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/shortcuts.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:23:02) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/prototype.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:23:02) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/effects.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:23:02) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/dragdrop.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:23:02) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/controls.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:23:49) [GET]
+  Parameters: {"1236951968"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/shortcuts.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:23:49) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/prototype.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:23:49) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/effects.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:23:49) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/dragdrop.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:23:49) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/controls.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:23:53) [GET]
+  Parameters: {"1236951968"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/shortcuts.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:23:53) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/prototype.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:23:53) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/effects.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:23:53) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/dragdrop.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-18 07:23:53) [GET]
+  Parameters: {"1225246707"=>nil}
+
+ActionController::RoutingError (No route matches "/javascripts/controls.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:24:22) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (10.0ms)
+Completed in 68ms (View: 66, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:24:40) [POST]
+  Parameters: {"regexp"=>"<.*>", "string_comparison"=>"<foo><bar>", "caret"=>"", "replacement"=>""}
+Rendering home/create
+
+
+
+
+&lt;foo&gt;&lt;bar&gt;
+
+
+
+Completed in 21ms (View: 5, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:27:01) [POST]
+  Parameters: {"regexp"=>"<.*>", "string_comparison"=>"<foo><bar>", "caret"=>"", "replacement"=>""}
+Rendering home/create
+
+
+
+
+&lt;foo&gt;&lt;bar&gt;
+
+
+
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:27:53) [POST]
+  Parameters: {"regexp"=>"<.*>", "string_comparison"=>"<foo><bar>", "caret"=>"", "replacement"=>""}
+Rendering home/create
+
+
+
+
+
+
+
+
+Completed in 9ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:28:43) [POST]
+  Parameters: {"regexp"=>"<.*>", "string_comparison"=>"<foo><bar>", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 86ms (View: 11, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:29:00) [POST]
+  Parameters: {"regexp"=>"<.*>", "string_comparison"=>"<foo><bar>", "caret"=>"", "replacement"=>""}
+Rendering home/create
+
+
+
+
+<foo><bar>}
+
+
+
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:29:16) [POST]
+  Parameters: {"regexp"=>"<.*>", "string_comparison"=>"<foo><bar>", "caret"=>"", "replacement"=>""}
+Rendering home/create
+
+
+
+
+<foo><bar>
+
+
+
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:30:04) [POST]
+  Parameters: {"regexp"=>"<.*>", "string_comparison"=>"<foo><bar>", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:30:14) [POST]
+  Parameters: {"regexp"=>"<.*>", "string_comparison"=>"<foo><bar>", "caret"=>"", "replacement"=>"<zzz>"}
+Rendering home/create
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:30:35) [POST]
+  Parameters: {"regexp"=>"<.*?>", "string_comparison"=>"<foo><bar>", "caret"=>"", "replacement"=>"<zzz>"}
+Rendering home/create
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:33:13) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:33:32) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 78ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:33:34) [POST]
+  Parameters: {"regexp"=>"<.*?>", "string_comparison"=>"<foo><bar>", "caret"=>"", "replacement"=>"<zzz>"}
+Rendering home/create
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:34:29) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:34:30) [POST]
+  Parameters: {"regexp"=>"<.*?>", "string_comparison"=>"<foo><bar>", "caret"=>"", "replacement"=>"<zzz>"}
+Rendering home/create
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:34:31) [POST]
+  Parameters: {"regexp"=>"<.*?>", "string_comparison"=>"<foo><bar>", "caret"=>"", "replacement"=>"<zzz>"}
+Rendering home/create
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:34:32) [POST]
+  Parameters: {"regexp"=>"<.*?>", "string_comparison"=>"<foo><bar>", "caret"=>"", "replacement"=>"<zzz>"}
+Rendering home/create
+Completed in 7ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:34:32) [POST]
+  Parameters: {"regexp"=>"<.*?>", "string_comparison"=>"<foo><bar>", "caret"=>"", "replacement"=>"<zzz>"}
+Rendering home/create
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:34:55) [POST]
+  Parameters: {"regexp"=>"<.*?>", "string_comparison"=>"<foo><bar>", "caret"=>"", "replacement"=>"<zzz>"}
+Rendering home/create
+Completed in 3007ms (View: 2, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:35:03) [POST]
+  Parameters: {"regexp"=>"<.*?>", "string_comparison"=>"<foo><bar>a", "caret"=>"", "replacement"=>"<zzz>"}
+Rendering home/create
+Completed in 3008ms (View: 2, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:35:29) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:35:31) [POST]
+  Parameters: {"regexp"=>"<.*?>", "string_comparison"=>"<foo><bar>a", "caret"=>"", "replacement"=>"<zzz>"}
+Rendering home/create
+Completed in 3006ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:37:30) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (15.2ms)
+Completed in 41ms (View: 36, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:46:10) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (1.3ms)
+Completed in 71ms (View: 41, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:46:12) [POST]
+  Parameters: {"regexp"=>"<.*?>", "string_comparison"=>"<foo><bar>a", "caret"=>"", "replacement"=>"<zzz>"}
+Rendering home/create
+Completed in 3058ms (View: 2, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:48:20) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.4ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:48:23) [POST]
+  Parameters: {"regexp"=>"<.*?>", "string_comparison"=>"<foo><bar>a", "caret"=>"", "replacement"=>"<zzz>"}
+Rendering home/create
+Completed in 3008ms (View: 2, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:48:51) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.4ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:48:57) [POST]
+  Parameters: {"regexp"=>"\\((\\d+)\\)\\.\\((\\d+)\\)\\.\\((\\d+)\\)", "string_comparison"=>"(123).(456).(789)", "caret"=>"", "replacement"=>"\\1\\2\\3"}
+Rendering home/create
+Completed in 3008ms (View: 2, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:49:04) [POST]
+  Parameters: {"regexp"=>"\\((\\d+)\\)\\.\\((\\d+)\\)\\.\\((\\d+)\\)", "string_comparison"=>"(123).(456).(789)", "caret"=>"", "replacement"=>"\\1\\2\\3"}
+Rendering home/create
+Completed in 3006ms (View: 2, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:49:37) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:49:38) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:49:40) [POST]
+  Parameters: {"regexp"=>"\\((\\d+)\\)\\.\\((\\d+)\\)\\.\\((\\d+)\\)", "string_comparison"=>"(123).(456).(789)", "caret"=>"", "replacement"=>"\\1\\2\\3"}
+Rendering home/create
+Completed in 3006ms (View: 2, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:50:06) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:50:07) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:50:09) [POST]
+  Parameters: {"regexp"=>"\\((\\d+)\\)\\.\\((\\d+)\\)\\.\\((\\d+)\\)", "string_comparison"=>"(123).(456).(789)", "caret"=>"", "replacement"=>"\\1\\2\\3"}
+Rendering home/create
+Completed in 3007ms (View: 3, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:50:29) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:50:32) [POST]
+  Parameters: {"regexp"=>"\\((\\d+)\\)\\.\\((\\d+)\\)\\.\\((\\d+)\\)", "string_comparison"=>"(123).(456).(789)", "caret"=>"", "replacement"=>"\\1\\2\\3"}
+Rendering home/create
+Completed in 3007ms (View: 2, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:52:38) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:52:40) [POST]
+  Parameters: {"regexp"=>"\\((\\d+)\\)\\.\\((\\d+)\\)\\.\\((\\d+)\\)", "string_comparison"=>"(123).(456).(789)", "caret"=>"", "replacement"=>"\\1\\2\\3"}
+Rendering home/create
+Completed in 3007ms (View: 2, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:52:49) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (3.5ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:52:51) [POST]
+  Parameters: {"regexp"=>"", "string_comparison"=>"", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 3006ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:54:17) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.4ms)
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:54:28) [POST]
+  Parameters: {"regexp"=>"", "string_comparison"=>"", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 3007ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:54:44) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:54:58) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:55:09) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:55:21) [POST]
+  Parameters: {"regexp"=>"", "string_comparison"=>"", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 3006ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:55:40) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:55:48) [POST]
+  Parameters: {"regexp"=>"", "string_comparison"=>"", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 3006ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:56:11) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:56:18) [POST]
+  Parameters: {"regexp"=>"", "string_comparison"=>"", "caret"=>"", "replacement"=>""}
+Rendering home/create
+Completed in 3005ms (View: 1, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-05-18 07:56:36) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:56:43) [POST]
+  Parameters: {"regexp"=>"\\((\\d+)\\)\\.\\((\\d+)\\)\\.\\((\\d+)\\)", "string_comparison"=>"(123).(456).(789)", "caret"=>"", "replacement"=>"\\1\\2\\3"}
+Rendering home/create
+Completed in 3074ms (View: 69, DB: 0) | 200 OK [http://localhost/home/create]

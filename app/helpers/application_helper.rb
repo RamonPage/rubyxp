@@ -4,7 +4,8 @@ module ApplicationHelper
   def pretty_match
     string = h(@rubyxp.match_data.string.dup)
 
-    string.sub!(@rubyxp.match_data[0]) { |match| "<span style=\"color:#ff0000\">#{match.hard_break}</span>" }
+    string.sub!(h(@rubyxp.match_data[0])) { |match| "<span style=\"color:#ff0000\">#{match.hard_break}</span>" }
+
   end
 
   def print_group_matches
