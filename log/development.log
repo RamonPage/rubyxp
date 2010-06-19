@@ -2586,3 +2586,52 @@ Processing HomeController#create (for 127.0.0.1 at 2010-05-18 07:56:43) [POST]
   Parameters: {"regexp"=>"\\((\\d+)\\)\\.\\((\\d+)\\)\\.\\((\\d+)\\)", "string_comparison"=>"(123).(456).(789)", "caret"=>"", "replacement"=>"\\1\\2\\3"}
 Rendering home/create
 Completed in 3074ms (View: 69, DB: 0) | 200 OK [http://localhost/home/create]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-06-19 09:03:38) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (2.2ms)
+Completed in 76ms (View: 74, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-06-19 09:04:15) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (2.1ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-06-19 09:04:22) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (2.3ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-06-19 09:04:27) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (2.2ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-06-19 09:04:40) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (2.2ms)
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-06-19 09:04:56) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (0.3ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-06-19 09:05:09) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Rendered home/_side (2.2ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/]
